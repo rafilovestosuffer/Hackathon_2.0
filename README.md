@@ -120,7 +120,7 @@ DEMO_MODE=true uvicorn main:app --reload
 Track progress using `TASKS.md`:
 
 - **Block 1:** Project Setup ✅
-- **Block 2:** Frontend Upload Panel
+- **Block 2:** Frontend Upload Panel ✅
 - **Block 3:** Backend Image Endpoint
 - **Block 4:** Vision Model
 - **Block 5:** RAG Integration
@@ -136,9 +136,9 @@ Track progress using `TASKS.md`:
 
 ## Next Steps
 
-After Block 1 setup, implement Block 2: Frontend Upload Panel.
+Implement Block 3: Backend Image Upload Endpoint.
 
-Refer to `TASKS.md` Block 2 for detailed steps.
+Refer to `TASKS.md` Block 3 for detailed steps.
 
 ---
 
