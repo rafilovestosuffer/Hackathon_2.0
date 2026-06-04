@@ -117,28 +117,47 @@ DEMO_MODE=true uvicorn main:app --reload
 
 ## Implementation Progress
 
-Track progress using `TASKS.md`:
+All blocks complete! ✅
 
 - **Block 1:** Project Setup ✅
 - **Block 2:** Frontend Upload Panel ✅
-- **Block 3:** Backend Image Endpoint
-- **Block 4:** Vision Model
-- **Block 5:** RAG Integration
-- **Block 6:** LLM Integration
-- **Block 7:** Result Display
-- **Block 8:** Report Generation
-- **Block 9:** Error Handling
-- **Block 10:** Demo Fallback
-- **Block 11:** UI Polish
-- **Block 12:** Demo Script & Final Checks
+- **Block 3:** Backend Image Endpoint ✅
+- **Block 4:** Vision Model ✅
+- **Block 5:** RAG Integration ✅
+- **Block 6:** LLM Integration ✅
+- **Block 7:** Result Display ✅
+- **Block 8:** Report Generation ✅
+- **Block 9:** Error Handling & Fallbacks ✅
+- **Block 10:** Demo Fallback & Pre-Cached Responses ✅
+- **Block 11:** UI Polish & Mobile Responsiveness ✅
+- **Block 12:** Demo Script & Acceptance Checklist ✅
+
+---
+
+## Demo Script
+
+See `DEMO_SCRIPT.md` for the 2-minute judge-facing demo flow.
+
+**Quick demo run:**
+
+```bash
+# Terminal 1: Backend with demo mode
+cd backend
+.\venv\Scripts\activate
+DEMO_MODE=true uvicorn main:app --reload
+
+# Terminal 2: Frontend
+cd frontend
+npm run dev
+
+# Open http://localhost:3000 and upload demo_stain.jpg
+```
 
 ---
 
 ## Next Steps
 
-Implement Block 3: Backend Image Upload Endpoint.
-
-Refer to `TASKS.md` Block 3 for detailed steps.
+Ready to deploy! See `DEMO_SCRIPT.md` for presentation flow.
 
 ---
 

@@ -1,0 +1,38 @@
+{
+  "demo_stain.jpg": {
+    "defect": "stain",
+    "confidence": 0.92,
+    "cited_standard": {
+      "source": "Buyer Spec v3",
+      "clause_id": "4.2.1",
+      "text": "Visible stains on visible areas are not acceptable."
+    },
+    "root_cause": "Likely water contamination or chemical spill during the washing process.",
+    "recommended_action": "Re-wash the garment with clean water and inspect for stain removal. If persistent, reject the unit.",
+    "pass_fail": "fail"
+  },
+  "demo_broken_stitch.jpg": {
+    "defect": "broken_stitch",
+    "confidence": 0.88,
+    "cited_standard": {
+      "source": "ISO 9001",
+      "clause_id": "5.1.2",
+      "text": "All stitching must be uniform and even with no broken threads."
+    },
+    "root_cause": "Thread tension misconfiguration on the overlock sewing machine or needle breakage.",
+    "recommended_action": "Recalibrate thread tension settings and replace needle. Test stitch quality on scrap fabric before resuming production.",
+    "pass_fail": "fail"
+  },
+  "demo_hole.jpg": {
+    "defect": "hole",
+    "confidence": 0.95,
+    "cited_standard": {
+      "source": "Buyer Spec v3",
+      "clause_id": "4.1.3",
+      "text": "No holes or tears are acceptable in visible areas."
+    },
+    "root_cause": "Mechanical damage during cutting, sewing, or finishing process.",
+    "recommended_action": "Patch repair using matching fabric and invisible stitching, or reject if hole is in high-visibility area.",
+    "pass_fail": "fail"
+  }
+}

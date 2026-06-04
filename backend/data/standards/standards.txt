@@ -1,0 +1,20 @@
+source: Buyer Spec v3 | clause_id: 4.2.1 | Visible stains on visible areas are not acceptable.
+source: ISO 9001 | clause_id: 5.1.2 | Stitching must be uniform and even with no broken threads.
+source: Bangladesh RMG Code | clause_id: 3.4.5 | Seams must be aligned and symmetrical.
+source: Buyer Spec v3 | clause_id: 4.1.3 | No holes or tears are acceptable in visible areas.
+source: Quality Standard | clause_id: 2.1.1 | Color must be uniform and consistent throughout the garment.
+source: ISO 8015 | clause_id: 1.2.3 | Thread quality must meet specification with no slubs or breakage.
+source: Buyer Spec v3 | clause_id: 4.3.2 | Pilling and bobbling are not acceptable on any surface.
+source: AQL Standard | clause_id: 6.2.1 | Surface defects must not exceed AQL limits for the defect class.
+source: Bangladesh RMG Code | clause_id: 3.2.4 | Hem stitching must be secure and straight with no loose threads.
+source: ISO 9001 | clause_id: 5.2.1 | Button placement must be precise and secure with proper anchoring.
+source: Buyer Spec v3 | clause_id: 4.4.3 | Zipper functionality must work smoothly without jamming or breaking.
+source: Quality Standard | clause_id: 2.3.1 | Label attachment must be secure and properly positioned.
+source: Buyer Spec v3 | clause_id: 4.5.1 | Elastic and ribbing must maintain tension and shape after wear.
+source: ISO 8015 | clause_id: 1.3.2 | No knots, knops, or tangles in seams or hems.
+source: Bangladesh RMG Code | clause_id: 3.5.1 | Pocket placement and alignment must be accurate and symmetrical.
+source: AQL Standard | clause_id: 6.1.2 | Major defects must not appear in final inspection sample.
+source: Buyer Spec v3 | clause_id: 4.6.2 | Embroidery must be secure with no loose or missing stitches.
+source: Quality Standard | clause_id: 2.2.1 | Waistband attachment must be secure with even stitching throughout.
+source: ISO 9001 | clause_id: 5.3.1 | Fabric smoothness and finish must meet buyer requirements.
+source: Bangladesh RMG Code | clause_id: 3.3.1 | Shoulder seams must be aligned and symmetrical with no puckering.
